@@ -1,64 +1,71 @@
 ---
 layout: archive
-title: "CV"
+title: "简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## 教育背景
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **硕士**, 金融学, 上海大学经济学院, 2023-2026 (预期)
+* **学士**, 金融学, 浙江工商大学经济学院, 2016-2020
+  * 优化考务业务
+  * 大学生正常投资大学三等奖
+  * 大学生建模大赛三等奖
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## 研究兴趣
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 家庭社会学
+* 妇女/性别研究
+* 社会心理学
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 科研项目
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **上海市残疾预防行动计划第三方中期评估** (2023-2025)
+  * 担任课题组主要成员
+  * 负责数据分析和报告撰写
+
+* **上海市残疾人康复服务"十四五"中期评估**
+  * 担任课题组核心成员
+  * 负责政策效果评估
+
+* **静安区残疾人享受"十四五"规划执行情况评估**
+  * 担任课题组主要成员
+
+## 学术成果
+
+* 《残疾人工作者协同网络分析调查研究》(分析报告)
+* 《关于2024年长宁区残疾预防工作报告》(成果报告)
+* 《静安区残疾人享受"十四五"规划执行情况》(作者报告)
+* 《上海市重度残疾人群体养护需求》(目前正在进行中)
+
+## 科研技能
+
+### 研究方法
+* 熟悉多元线性回归模型、主成分分析、因子效度模型、随机效应模型等高级计量与统计分析方法
+
+### 研究工具
+* 熟练运用Stata软件进行计量分析与预测
+* 熟悉多类数据模型的Matlab实现
+* 应用Python、R等数据科学工具
+
+### 学术写作
+* 具备一定的英文应用水平(CET6)
+* 具备良好的中英文学术写作能力
+* 熟悉国内外期刊投稿流程及法律事务
+
+## 实践经历
+
+* **中国信托商业银行厦门分行** - 实习生
+  * 分析师公客户的财务报表
+  * 协助进行风险评估
+
+* **国金证券(上海总部)** - 实习生
+  * 运用wind等金融软件
+  * 日常收集、处理财管理产品数据
+
+* **上海财联社金融科技有限公司** - 实习生
+  * 跟踪金融新闻热点
+  * 协助新闻采编工作
